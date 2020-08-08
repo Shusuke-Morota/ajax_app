@@ -1,0 +1,8 @@
+<% articles.each do |article| %>
+	<div class="card mb-1">
+		<div class="card-body">
+			<p class="card-text"><%= article.title %></p>
+			<p class="card-text"><small><%= simple_format article.body %></small></p>
+		</div>
+	</div>
+<% end %>
