@@ -1,4 +1,6 @@
 # Ajax_app
+![image](https://user-images.githubusercontent.com/64732255/89716810-2769ab80-d9eb-11ea-98e9-2f5a36cf1b26.png)
+
 
 このアプリケーションは非同期通信の練習用となっております。
 
