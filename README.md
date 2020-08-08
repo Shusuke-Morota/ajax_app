@@ -1,24 +1,13 @@
-# README
+# Ajax_app
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+このアプリケーションは非同期通信の練習用となっております。
 
-Things you may want to cover:
 
-* Ruby version
+## アプリケーションの概要
+基本的には記事を非同期で投稿できるアプリケーションです。
 
-* System dependencies
+## アプリケーションの使い方
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+① ルートパスで表示される画面で、投稿ができ、その投稿が一覧で表示されます。
+② 新規投稿ボタンでモーダルが展開されます。
+③ 表示されたモーダル内に記事のタイトルと概要を記入していただき、投稿するボタンを押していただくと投稿されます。
